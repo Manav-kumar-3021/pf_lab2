@@ -1,2 +1,5 @@
 # pf_lab2
-hello world 
+**This Text is Bold**
+*this text is italics*
+***this text is both bold and italics***
+~~oops i made an error~~
